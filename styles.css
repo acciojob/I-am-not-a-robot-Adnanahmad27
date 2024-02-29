@@ -35,6 +35,14 @@ p {
   text-align: center;
 }
 
+#reset{
+	display:none;
+}
+#verify{
+	display:none;
+}
+
+
 button {
   margin: 20px;
 }
